@@ -19,7 +19,7 @@
     "eventemitter3": "4.0.0",
     "iframe-resizer": "4.2.10",
     "js-channel": "1.0.1830",
-    "lodash": "~4.17.19",
+    "lodash": "~4.17.21",
     "serialize-javascript": "^3.1.0"
   },
   "devDependencies": {
